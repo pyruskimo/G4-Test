@@ -1,0 +1,17 @@
+For this project, we will explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.  We will also have 2 sections about the following topics:  
+
+  - Explanation of gitFlow  workflow
+  - Definition and provisionof of examples on how to use the following Git commands and terminology:
+
+    Repository
+    Clone
+    Fork
+    Branch
+    Commit
+    Merge
+    Checkout
+    Push
+    Pull 
+    Remote Add / Remove / Show
+    Status
+    Master Branch
