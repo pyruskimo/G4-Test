@@ -31,8 +31,17 @@ Commit implies telling Git to track the individual change to a file (or set of f
 
  
 ## Merge
-Merging is a way of combining the work from two different branches together where a branch was created to develop a new feature and then combined back in to the main branch or master branch.
+Merging is a way of combining the work from two different branches together where a branch was created to develop a new feature and then combined back in to the main branch or master branch. Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches.
 
+**use case**
+*Assuming we need to complete a merge following the below screenshot;
+![screenshot1](https://github.com/pyruskimo/LarryTaiyeImages/blob/master/Merge1.PNG)
+
+*Invoking this command will merge the specified branch feature into the current branch, we'll assume master. Git will determine the merge algorithm automatically, per below screenshot
+
+![Screenshot2](https://github.com/pyruskimo/LarryTaiyeImages/blob/master/Merge2.PNG)
+
+*![Reference](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 
 ## Checkout
 
@@ -66,7 +75,7 @@ Master Branch
 - [x] Commit
 - [ ] Merge
 - [ ] Checkout
-- [ ] Push
+- [x] Push
 - [ ] Pull
 - [ ] Remote
 
