@@ -97,3 +97,8 @@ A branch in Git is simply a lightweight movable pointer to one of these commits.
         
 - [ ] Status
 - [ ] Master branch
+
+
+
+*![References](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
+*![References]https://www.atlassian.com/git/tutorials/saving-changes/git-commit
