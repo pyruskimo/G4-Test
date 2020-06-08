@@ -62,7 +62,9 @@ The git pull command is used to fetch and download content from a remote reposit
 
 
 ## Remote
-Remote allows us to collaborate with others.
+Remote allows us to collaborate with others. It is responsible for syncing changes. It also records changes made through the git remote command and are used in conjunction with the git fetch, git push, and git pull commands. 
+
+
       Remote Add / Remove / Show
 Status
 Master Branch
