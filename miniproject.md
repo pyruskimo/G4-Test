@@ -71,7 +71,8 @@ Remote allows us to collaborate with others. It is responsible for syncing chang
 The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. 
 
 
-Master Branch
+## Master Branch
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As we start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
 
 
